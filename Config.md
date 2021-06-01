@@ -10,5 +10,6 @@ git config --global user.name "Beatrice Saunders"
 
   ## Resources
   - [Git Config Documentation](https://git-scm.com/docs/git-config) 
+
   ---
-  [Bacto to home](../README.md)
+[Bacto to home](../README.md)

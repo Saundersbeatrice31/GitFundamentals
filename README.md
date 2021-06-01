@@ -6,3 +6,4 @@ Git is a version control system that allows us to track changes and commit them 
 -[git init](./Commands/Init.md)
 -[git add](./Commands/Add.md)
 -[git commit](./Command/Commit.md)
+-[git remote](./Command/Remote.md)

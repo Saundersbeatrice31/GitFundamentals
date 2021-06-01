@@ -6,7 +6,7 @@ You can track changes to specific files using `git add file1 file2` which will t
 You can specify tracking directories with `git add DirectoryName`.
 
 ## Resources
--[Git Add Documentation](https://git-scm.com/docs/git-config)
+-[Git Add Documentation](https://git-scm.com/docs/git-Add)
 
 ---
  [Back to home](../README.md)

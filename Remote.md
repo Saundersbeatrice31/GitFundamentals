@@ -21,7 +21,7 @@ git remote remove origin
 ```
 
 ## Resources 
--[Git remote Documentation](https://git-scm.com/docs/git-config)
+-[Git remote Documentation](https://git-scm.com/docs/git-Remote)
 
 ---
 [Back to home](../README.md)
